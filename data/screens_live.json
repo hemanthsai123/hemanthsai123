@@ -1,0 +1,70 @@
+{
+  "highs": [
+    {
+      "sym": "ETERNAL",
+      "price": 343.65,
+      "chg": 1.72
+    },
+    {
+      "sym": "DIVISLAB",
+      "price": 9780.0,
+      "chg": 1.2
+    },
+    {
+      "sym": "KOTAKBANK",
+      "price": 461.6,
+      "chg": 0.57
+    }
+  ],
+  "volume": [
+    {
+      "sym": "TRENT",
+      "x": 3.9,
+      "chg": 5.44
+    },
+    {
+      "sym": "SUNPHARMA",
+      "x": 3.4,
+      "chg": 0.95
+    },
+    {
+      "sym": "COALINDIA",
+      "x": 3.4,
+      "chg": -1.04
+    }
+  ],
+  "momentum": [
+    {
+      "sym": "WIPRO",
+      "chg": 4.32,
+      "rsi": 73.7
+    },
+    {
+      "sym": "HCLTECH",
+      "chg": 1.72,
+      "rsi": 69.9
+    },
+    {
+      "sym": "KOTAKBANK",
+      "chg": 0.57,
+      "rsi": 69.1
+    },
+    {
+      "sym": "TCS",
+      "chg": 0.99,
+      "rsi": 67.2
+    },
+    {
+      "sym": "TECHM",
+      "chg": 1.2,
+      "rsi": 65.8
+    },
+    {
+      "sym": "BHARTIARTL",
+      "chg": 0.08,
+      "rsi": 65.4
+    }
+  ],
+  "scanned": 49,
+  "asof": "2026-11-01"
+}
