@@ -1,70 +1,60 @@
 {
   "highs": [
     {
-      "sym": "ETERNAL",
-      "price": 343.65,
-      "chg": 1.72
+      "sym": "DIVISLAB",
+      "price": 9909.0,
+      "chg": 1.32
     },
     {
-      "sym": "DIVISLAB",
-      "price": 9780.0,
-      "chg": 1.2
+      "sym": "ETERNAL",
+      "price": 344.95,
+      "chg": 0.38
     },
     {
       "sym": "KOTAKBANK",
-      "price": 461.6,
-      "chg": 0.57
+      "price": 462.9,
+      "chg": 0.28
     }
   ],
   "volume": [
     {
-      "sym": "TRENT",
-      "x": 3.9,
-      "chg": 5.44
-    },
-    {
-      "sym": "SUNPHARMA",
-      "x": 3.4,
-      "chg": 0.95
-    },
-    {
-      "sym": "COALINDIA",
-      "x": 3.4,
-      "chg": -1.04
+      "sym": "RELIANCE",
+      "x": 2.3,
+      "chg": 6.08
     }
   ],
   "momentum": [
     {
-      "sym": "WIPRO",
-      "chg": 4.32,
-      "rsi": 73.7
-    },
-    {
       "sym": "HCLTECH",
-      "chg": 1.72,
-      "rsi": 69.9
+      "chg": 0.36,
+      "rsi": 70.5
     },
     {
       "sym": "KOTAKBANK",
-      "chg": 0.57,
-      "rsi": 69.1
+      "chg": 0.28,
+      "rsi": 69.7
+    },
+    {
+      "sym": "WIPRO",
+      "chg": -1.27,
+      "rsi": 69.5
     },
     {
       "sym": "TCS",
-      "chg": 0.99,
-      "rsi": 67.2
-    },
-    {
-      "sym": "TECHM",
-      "chg": 1.2,
-      "rsi": 65.8
+      "chg": 0.66,
+      "rsi": 68.3
     },
     {
       "sym": "BHARTIARTL",
-      "chg": 0.08,
-      "rsi": 65.4
+      "chg": 0.96,
+      "rsi": 67.4
+    },
+    {
+      "sym": "DIVISLAB",
+      "chg": 1.32,
+      "rsi": 66.9
     }
   ],
   "scanned": 49,
-  "asof": "2026-11-01"
+  "asof": "2026-11-02"
 }
