@@ -1,58 +1,68 @@
 {
   "highs": [
     {
-      "sym": "DIVISLAB",
-      "price": 9945.5,
-      "chg": 1.69
+      "sym": "ETERNAL",
+      "price": 343.65,
+      "chg": 1.72
     },
     {
-      "sym": "ETERNAL",
-      "price": 344.0,
-      "chg": 0.1
+      "sym": "DIVISLAB",
+      "price": 9780.0,
+      "chg": 1.2
+    },
+    {
+      "sym": "KOTAKBANK",
+      "price": 461.6,
+      "chg": 0.57
     }
   ],
   "volume": [
     {
-      "sym": "RELIANCE",
-      "x": 5.8,
-      "chg": 11.6
+      "sym": "TRENT",
+      "x": 3.9,
+      "chg": 5.44
     },
     {
       "sym": "SUNPHARMA",
-      "x": 2.1,
-      "chg": -0.43
+      "x": 3.4,
+      "chg": 0.95
+    },
+    {
+      "sym": "COALINDIA",
+      "x": 3.4,
+      "chg": -1.04
     }
   ],
   "momentum": [
     {
-      "sym": "DRREDDY",
-      "chg": -0.74,
-      "rsi": 71.8
+      "sym": "WIPRO",
+      "chg": 4.32,
+      "rsi": 73.7
     },
     {
       "sym": "HCLTECH",
-      "chg": 0.41,
-      "rsi": 70.6
+      "chg": 1.72,
+      "rsi": 69.9
     },
     {
-      "sym": "WIPRO",
-      "chg": -0.96,
-      "rsi": 70.5
-    },
-    {
-      "sym": "DIVISLAB",
-      "chg": 1.69,
-      "rsi": 67.6
-    },
-    {
-      "sym": "BHARTIARTL",
-      "chg": 0.82,
-      "rsi": 67.1
+      "sym": "KOTAKBANK",
+      "chg": 0.57,
+      "rsi": 69.1
     },
     {
       "sym": "TCS",
-      "chg": -0.04,
-      "rsi": 67.0
+      "chg": 0.99,
+      "rsi": 67.2
+    },
+    {
+      "sym": "TECHM",
+      "chg": 1.2,
+      "rsi": 65.8
+    },
+    {
+      "sym": "BHARTIARTL",
+      "chg": 0.08,
+      "rsi": 65.4
     }
   ],
   "scanned": 49,
