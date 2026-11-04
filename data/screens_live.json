@@ -1,60 +1,75 @@
 {
   "highs": [
     {
-      "sym": "DIVISLAB",
-      "price": 9945.5,
-      "chg": 1.69
+      "sym": "ADANIPORTS",
+      "price": 1910.0,
+      "chg": 2.31
     },
     {
-      "sym": "ETERNAL",
-      "price": 344.0,
-      "chg": 0.1
+      "sym": "JSWSTEEL",
+      "price": 1343.0,
+      "chg": 1.74
+    },
+    {
+      "sym": "DRREDDY",
+      "price": 1374.0,
+      "chg": 0.42
+    },
+    {
+      "sym": "DIVISLAB",
+      "price": 10037.5,
+      "chg": -0.26
     }
   ],
   "volume": [
     {
-      "sym": "RELIANCE",
-      "x": 5.8,
-      "chg": 11.6
+      "sym": "SUNPHARMA",
+      "x": 2.8,
+      "chg": 0.2
     },
     {
-      "sym": "SUNPHARMA",
-      "x": 2.1,
-      "chg": -0.43
+      "sym": "BEL",
+      "x": 2.3,
+      "chg": 4.71
+    },
+    {
+      "sym": "GRASIM",
+      "x": 2.2,
+      "chg": 1.55
     }
   ],
   "momentum": [
     {
-      "sym": "DRREDDY",
-      "chg": -0.74,
-      "rsi": 71.8
-    },
-    {
-      "sym": "HCLTECH",
-      "chg": 0.41,
-      "rsi": 70.6
-    },
-    {
-      "sym": "WIPRO",
-      "chg": -0.96,
-      "rsi": 70.5
+      "sym": "BHARTIARTL",
+      "chg": 0.13,
+      "rsi": 73.8
     },
     {
       "sym": "DIVISLAB",
-      "chg": 1.69,
-      "rsi": 67.6
+      "chg": -0.26,
+      "rsi": 68.6
     },
     {
-      "sym": "BHARTIARTL",
-      "chg": 0.82,
-      "rsi": 67.1
+      "sym": "ULTRACEMCO",
+      "chg": 0.99,
+      "rsi": 68.6
     },
     {
-      "sym": "TCS",
-      "chg": -0.04,
-      "rsi": 67.0
+      "sym": "ADANIPORTS",
+      "chg": 2.31,
+      "rsi": 67.2
+    },
+    {
+      "sym": "JSWSTEEL",
+      "chg": 1.74,
+      "rsi": 66.3
+    },
+    {
+      "sym": "WIPRO",
+      "chg": -1.74,
+      "rsi": 65.8
     }
   ],
   "scanned": 49,
-  "asof": "2026-11-03"
+  "asof": "2026-11-04"
 }
