@@ -1,73 +1,83 @@
 {
   "highs": [
     {
-      "sym": "ADANIPORTS",
-      "price": 1910.0,
-      "chg": 2.31
+      "sym": "ETERNAL",
+      "price": 349.45,
+      "chg": 1.58
     },
     {
-      "sym": "JSWSTEEL",
-      "price": 1343.0,
-      "chg": 1.74
-    },
-    {
-      "sym": "DRREDDY",
-      "price": 1374.0,
-      "chg": 0.42
+      "sym": "KOTAKBANK",
+      "price": 464.65,
+      "chg": 1.37
     },
     {
       "sym": "DIVISLAB",
-      "price": 10037.5,
-      "chg": -0.26
+      "price": 10064.0,
+      "chg": 1.19
     }
   ],
   "volume": [
     {
-      "sym": "SUNPHARMA",
-      "x": 2.8,
-      "chg": 0.2
+      "sym": "SBIN",
+      "x": 3.1,
+      "chg": -1.7
     },
     {
-      "sym": "BEL",
+      "sym": "BRITANNIA",
+      "x": 2.7,
+      "chg": 6.36
+    },
+    {
+      "sym": "ASIANPAINT",
+      "x": 2.5,
+      "chg": 3.99
+    },
+    {
+      "sym": "RELIANCE",
       "x": 2.3,
-      "chg": 4.71
+      "chg": 0.61
+    },
+    {
+      "sym": "BHARTIARTL",
+      "x": 2.1,
+      "chg": 3.77
     },
     {
       "sym": "GRASIM",
-      "x": 2.2,
-      "chg": 1.55
+      "x": 2.0,
+      "chg": 1.08
     }
   ],
   "momentum": [
     {
       "sym": "BHARTIARTL",
-      "chg": 0.13,
-      "rsi": 73.8
-    },
-    {
-      "sym": "DIVISLAB",
-      "chg": -0.26,
-      "rsi": 68.6
-    },
-    {
-      "sym": "ULTRACEMCO",
-      "chg": 0.99,
-      "rsi": 68.6
-    },
-    {
-      "sym": "ADANIPORTS",
-      "chg": 2.31,
-      "rsi": 67.2
-    },
-    {
-      "sym": "JSWSTEEL",
-      "chg": 1.74,
-      "rsi": 66.3
+      "chg": 3.77,
+      "rsi": 73.6
     },
     {
       "sym": "WIPRO",
-      "chg": -1.74,
-      "rsi": 65.8
+      "chg": 0.81,
+      "rsi": 71.6
+    },
+    {
+      "sym": "HCLTECH",
+      "chg": 0.36,
+      "rsi": 71.3
+    },
+    {
+      "sym": "DIVISLAB",
+      "chg": 1.19,
+      "rsi": 69.7
+    },
+    {
+      "sym": "KOTAKBANK",
+      "chg": 1.37,
+      "rsi": 68.9
+    },
+    {
+      "sym": "TCS",
+      "chg": -0.1,
+      "rsi": 66.6
     }
   ],
   "scanned": 49,
