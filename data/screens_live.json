@@ -1,85 +1,95 @@
 {
   "highs": [
     {
+      "sym": "ICICIBANK",
+      "price": 1500.0,
+      "chg": 5.33
+    },
+    {
       "sym": "ETERNAL",
-      "price": 349.45,
-      "chg": 1.58
+      "price": 358.3,
+      "chg": 4.01
     },
     {
       "sym": "KOTAKBANK",
-      "price": 464.65,
-      "chg": 1.37
+      "price": 467.0,
+      "chg": 1.65
     },
     {
       "sym": "DIVISLAB",
-      "price": 10064.0,
-      "chg": 1.19
+      "price": 10140.5,
+      "chg": 1.03
+    },
+    {
+      "sym": "JSWSTEEL",
+      "price": 1355.6,
+      "chg": 0.94
     }
   ],
   "volume": [
     {
-      "sym": "SBIN",
-      "x": 3.1,
-      "chg": -1.7
-    },
-    {
-      "sym": "BRITANNIA",
-      "x": 2.7,
-      "chg": 6.36
-    },
-    {
-      "sym": "ASIANPAINT",
-      "x": 2.5,
-      "chg": 3.99
-    },
-    {
-      "sym": "RELIANCE",
-      "x": 2.3,
-      "chg": 0.61
-    },
-    {
-      "sym": "BHARTIARTL",
-      "x": 2.1,
-      "chg": 3.77
+      "sym": "M&M",
+      "x": 3.8,
+      "chg": 5.59
     },
     {
       "sym": "GRASIM",
-      "x": 2.0,
-      "chg": 1.08
+      "x": 3.5,
+      "chg": 2.86
+    },
+    {
+      "sym": "INDUSINDBK",
+      "x": 3.5,
+      "chg": 5.35
+    },
+    {
+      "sym": "BAJFINANCE",
+      "x": 3.5,
+      "chg": 7.65
+    },
+    {
+      "sym": "ICICIBANK",
+      "x": 3.1,
+      "chg": 5.33
+    },
+    {
+      "sym": "ASIANPAINT",
+      "x": 2.7,
+      "chg": 4.36
     }
   ],
   "momentum": [
     {
+      "sym": "ULTRACEMCO",
+      "chg": 3.67,
+      "rsi": 74.4
+    },
+    {
+      "sym": "ICICIBANK",
+      "chg": 5.33,
+      "rsi": 73.4
+    },
+    {
+      "sym": "DRREDDY",
+      "chg": -0.58,
+      "rsi": 72.8
+    },
+    {
       "sym": "BHARTIARTL",
-      "chg": 3.77,
-      "rsi": 73.6
-    },
-    {
-      "sym": "WIPRO",
-      "chg": 0.81,
-      "rsi": 71.6
-    },
-    {
-      "sym": "HCLTECH",
-      "chg": 0.36,
-      "rsi": 71.3
+      "chg": -0.52,
+      "rsi": 71.5
     },
     {
       "sym": "DIVISLAB",
-      "chg": 1.19,
-      "rsi": 69.7
+      "chg": 1.03,
+      "rsi": 70.5
     },
     {
-      "sym": "KOTAKBANK",
-      "chg": 1.37,
-      "rsi": 68.9
-    },
-    {
-      "sym": "TCS",
-      "chg": -0.1,
-      "rsi": 66.6
+      "sym": "WIPRO",
+      "chg": 1.98,
+      "rsi": 68.8
     }
   ],
   "scanned": 49,
-  "asof": "2026-11-04"
+  "asof": "2026-11-05"
 }
