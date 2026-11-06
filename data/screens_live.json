@@ -1,75 +1,100 @@
 {
   "highs": [
     {
+      "sym": "ICICIBANK",
+      "price": 1571.2,
+      "chg": 4.75
+    },
+    {
+      "sym": "KOTAKBANK",
+      "price": 480.0,
+      "chg": 2.78
+    },
+    {
       "sym": "ADANIPORTS",
-      "price": 1910.0,
-      "chg": 2.31
-    },
-    {
-      "sym": "JSWSTEEL",
-      "price": 1343.0,
-      "chg": 1.74
-    },
-    {
-      "sym": "DRREDDY",
-      "price": 1374.0,
-      "chg": 0.42
+      "price": 1936.6,
+      "chg": 2.76
     },
     {
       "sym": "DIVISLAB",
-      "price": 10037.5,
-      "chg": -0.26
+      "price": 10320.5,
+      "chg": 1.78
+    },
+    {
+      "sym": "ETERNAL",
+      "price": 363.15,
+      "chg": 1.35
+    },
+    {
+      "sym": "DRREDDY",
+      "price": 1373.0,
+      "chg": 0.51
     }
   ],
   "volume": [
     {
-      "sym": "SUNPHARMA",
-      "x": 2.8,
-      "chg": 0.2
+      "sym": "TITAN",
+      "x": 5.6,
+      "chg": 3.42
     },
     {
-      "sym": "BEL",
-      "x": 2.3,
-      "chg": 4.71
+      "sym": "HINDALCO",
+      "x": 3.3,
+      "chg": 2.19
     },
     {
-      "sym": "GRASIM",
-      "x": 2.2,
-      "chg": 1.55
+      "sym": "M&M",
+      "x": 3.3,
+      "chg": 5.11
+    },
+    {
+      "sym": "INDUSINDBK",
+      "x": 3.1,
+      "chg": -0.13
+    },
+    {
+      "sym": "ICICIBANK",
+      "x": 3.0,
+      "chg": 4.75
+    },
+    {
+      "sym": "ONGC",
+      "x": 2.9,
+      "chg": 0.77
     }
   ],
   "momentum": [
     {
-      "sym": "BHARTIARTL",
-      "chg": 0.13,
+      "sym": "DRREDDY",
+      "chg": 0.51,
       "rsi": 73.8
     },
     {
       "sym": "DIVISLAB",
-      "chg": -0.26,
-      "rsi": 68.6
+      "chg": 1.78,
+      "rsi": 73.6
     },
     {
-      "sym": "ULTRACEMCO",
-      "chg": 0.99,
-      "rsi": 68.6
+      "sym": "KOTAKBANK",
+      "chg": 2.78,
+      "rsi": 72.7
     },
     {
-      "sym": "ADANIPORTS",
-      "chg": 2.31,
-      "rsi": 67.2
+      "sym": "TECHM",
+      "chg": 0.46,
+      "rsi": 69.1
     },
     {
-      "sym": "JSWSTEEL",
-      "chg": 1.74,
-      "rsi": 66.3
+      "sym": "ETERNAL",
+      "chg": 1.35,
+      "rsi": 69.1
     },
     {
-      "sym": "WIPRO",
-      "chg": -1.74,
-      "rsi": 65.8
+      "sym": "ITC",
+      "chg": 1.54,
+      "rsi": 68.8
     }
   ],
   "scanned": 49,
-  "asof": "2026-11-05"
+  "asof": "2026-11-06"
 }
