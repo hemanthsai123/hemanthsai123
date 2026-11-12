@@ -1,83 +1,78 @@
 {
   "highs": [
     {
-      "sym": "ICICIBANK",
-      "price": 1590.0,
-      "chg": 1.17
-    },
-    {
-      "sym": "ETERNAL",
-      "price": 364.35,
-      "chg": 0.9
-    },
-    {
-      "sym": "DRREDDY",
-      "price": 1386.6,
-      "chg": 0.7
-    },
-    {
       "sym": "KOTAKBANK",
-      "price": 490.4,
-      "chg": 0.55
+      "price": 487.7,
+      "chg": 1.71
     },
     {
       "sym": "JSWSTEEL",
-      "price": 1352.1,
-      "chg": -0.09
+      "price": 1353.3,
+      "chg": 0.47
     }
   ],
   "volume": [
     {
-      "sym": "HDFCLIFE",
-      "x": 2.8,
-      "chg": 4.23
-    },
-    {
-      "sym": "HINDALCO",
-      "x": 2.5,
-      "chg": 0.18
-    },
-    {
-      "sym": "SBIN",
-      "x": 2.1,
-      "chg": 2.38
+      "sym": "INDUSINDBK",
+      "x": 2.6,
+      "chg": 0.56
     },
     {
       "sym": "ONGC",
+      "x": 2.4,
+      "chg": 0.56
+    },
+    {
+      "sym": "SBILIFE",
       "x": 2.1,
-      "chg": -4.39
+      "chg": 1.09
+    },
+    {
+      "sym": "HINDALCO",
+      "x": 2.0,
+      "chg": 0.24
+    },
+    {
+      "sym": "DIVISLAB",
+      "x": 2.0,
+      "chg": -1.72
+    },
+    {
+      "sym": "SBIN",
+      "x": 2.0,
+      "chg": 1.84
     }
   ],
   "momentum": [
     {
-      "sym": "HDFCLIFE",
-      "chg": 4.23,
-      "rsi": 74.9
-    },
-    {
-      "sym": "SBIN",
-      "chg": 2.38,
-      "rsi": 74.8
-    },
-    {
-      "sym": "M&M",
-      "chg": -1.9,
-      "rsi": 74.4
-    },
-    {
       "sym": "DRREDDY",
-      "chg": 0.7,
-      "rsi": 73.6
+      "chg": -0.58,
+      "rsi": 72.2
     },
     {
-      "sym": "LT",
-      "chg": -1.25,
-      "rsi": 72.1
+      "sym": "TRENT",
+      "chg": 3.32,
+      "rsi": 72.2
     },
     {
-      "sym": "BAJFINANCE",
-      "chg": 3.36,
-      "rsi": 71.8
+      "sym": "ULTRACEMCO",
+      "chg": 0.71,
+      "rsi": 72.0
+    },
+    {
+      "sym": "BHARTIARTL",
+      "chg": 1.78,
+      "rsi": 71.4
+    },
+    {
+      "sym": "RELIANCE",
+      "chg": 0.83,
+      "rsi": 70.2
+    },
+    {
+      "sym": "AXISBANK",
+      "chg": 1.96,
+      "rsi": 68.7
     }
   ],
   "scanned": 49,
