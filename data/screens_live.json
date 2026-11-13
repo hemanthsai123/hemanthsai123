@@ -1,80 +1,65 @@
 {
   "highs": [
     {
-      "sym": "KOTAKBANK",
-      "price": 487.7,
-      "chg": 1.71
+      "sym": "ETERNAL",
+      "price": 363.65,
+      "chg": -0.19
     },
     {
-      "sym": "JSWSTEEL",
-      "price": 1353.3,
-      "chg": 0.47
+      "sym": "KOTAKBANK",
+      "price": 488.55,
+      "chg": -0.38
+    },
+    {
+      "sym": "ICICIBANK",
+      "price": 1583.6,
+      "chg": -0.4
+    },
+    {
+      "sym": "DRREDDY",
+      "price": 1380.0,
+      "chg": -0.48
     }
   ],
   "volume": [
     {
-      "sym": "INDUSINDBK",
+      "sym": "GRASIM",
       "x": 2.6,
-      "chg": 0.56
-    },
-    {
-      "sym": "ONGC",
-      "x": 2.4,
-      "chg": 0.56
-    },
-    {
-      "sym": "SBILIFE",
-      "x": 2.1,
-      "chg": 1.09
-    },
-    {
-      "sym": "HINDALCO",
-      "x": 2.0,
-      "chg": 0.24
-    },
-    {
-      "sym": "DIVISLAB",
-      "x": 2.0,
-      "chg": -1.72
-    },
-    {
-      "sym": "SBIN",
-      "x": 2.0,
-      "chg": 1.84
+      "chg": -2.6
     }
   ],
   "momentum": [
     {
-      "sym": "DRREDDY",
-      "chg": -0.58,
-      "rsi": 72.2
+      "sym": "KOTAKBANK",
+      "chg": -0.38,
+      "rsi": 74.0
     },
     {
-      "sym": "TRENT",
-      "chg": 3.32,
-      "rsi": 72.2
+      "sym": "HDFCBANK",
+      "chg": -1.02,
+      "rsi": 73.4
     },
     {
-      "sym": "ULTRACEMCO",
-      "chg": 0.71,
+      "sym": "SBIN",
+      "chg": -0.6,
+      "rsi": 72.3
+    },
+    {
+      "sym": "BAJFINANCE",
+      "chg": 0.18,
       "rsi": 72.0
     },
     {
-      "sym": "BHARTIARTL",
-      "chg": 1.78,
-      "rsi": 71.4
+      "sym": "HDFCLIFE",
+      "chg": -0.93,
+      "rsi": 71.2
     },
     {
-      "sym": "RELIANCE",
-      "chg": 0.83,
-      "rsi": 70.2
-    },
-    {
-      "sym": "AXISBANK",
-      "chg": 1.96,
-      "rsi": 68.7
+      "sym": "DRREDDY",
+      "chg": -0.48,
+      "rsi": 70.9
     }
   ],
   "scanned": 49,
-  "asof": "2026-11-12"
+  "asof": "2026-11-13"
 }
