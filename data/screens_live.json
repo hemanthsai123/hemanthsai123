@@ -1,63 +1,83 @@
 {
   "highs": [
     {
-      "sym": "ETERNAL",
-      "price": 363.65,
-      "chg": -0.19
-    },
-    {
-      "sym": "KOTAKBANK",
-      "price": 488.55,
-      "chg": -0.38
-    },
-    {
       "sym": "ICICIBANK",
-      "price": 1583.6,
-      "chg": -0.4
+      "price": 1590.0,
+      "chg": 1.17
+    },
+    {
+      "sym": "ETERNAL",
+      "price": 364.35,
+      "chg": 0.9
     },
     {
       "sym": "DRREDDY",
-      "price": 1380.0,
-      "chg": -0.48
+      "price": 1386.6,
+      "chg": 0.7
+    },
+    {
+      "sym": "KOTAKBANK",
+      "price": 490.4,
+      "chg": 0.55
+    },
+    {
+      "sym": "JSWSTEEL",
+      "price": 1352.1,
+      "chg": -0.09
     }
   ],
   "volume": [
     {
-      "sym": "GRASIM",
-      "x": 2.6,
-      "chg": -2.6
+      "sym": "HDFCLIFE",
+      "x": 2.8,
+      "chg": 4.23
+    },
+    {
+      "sym": "HINDALCO",
+      "x": 2.5,
+      "chg": 0.18
+    },
+    {
+      "sym": "ONGC",
+      "x": 2.1,
+      "chg": -4.39
+    },
+    {
+      "sym": "SBIN",
+      "x": 2.1,
+      "chg": 2.38
     }
   ],
   "momentum": [
     {
-      "sym": "KOTAKBANK",
-      "chg": -0.38,
-      "rsi": 74.0
-    },
-    {
-      "sym": "HDFCBANK",
-      "chg": -1.02,
-      "rsi": 73.4
+      "sym": "HDFCLIFE",
+      "chg": 4.23,
+      "rsi": 74.9
     },
     {
       "sym": "SBIN",
-      "chg": -0.6,
-      "rsi": 72.3
+      "chg": 2.38,
+      "rsi": 74.8
     },
     {
-      "sym": "BAJFINANCE",
-      "chg": 0.18,
-      "rsi": 72.0
-    },
-    {
-      "sym": "HDFCLIFE",
-      "chg": -0.93,
-      "rsi": 71.2
+      "sym": "M&M",
+      "chg": -1.9,
+      "rsi": 74.4
     },
     {
       "sym": "DRREDDY",
-      "chg": -0.48,
-      "rsi": 70.9
+      "chg": 0.7,
+      "rsi": 73.6
+    },
+    {
+      "sym": "LT",
+      "chg": -1.25,
+      "rsi": 72.1
+    },
+    {
+      "sym": "BAJFINANCE",
+      "chg": 3.36,
+      "rsi": 71.8
     }
   ],
   "scanned": 49,
