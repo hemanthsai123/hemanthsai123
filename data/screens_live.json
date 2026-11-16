@@ -1,85 +1,80 @@
 {
   "highs": [
     {
-      "sym": "ICICIBANK",
-      "price": 1590.0,
-      "chg": 1.17
+      "sym": "BHARTIARTL",
+      "price": 2153.5,
+      "chg": 2.26
     },
     {
       "sym": "ETERNAL",
-      "price": 364.35,
-      "chg": 0.9
-    },
-    {
-      "sym": "DRREDDY",
-      "price": 1386.6,
-      "chg": 0.7
+      "price": 371.1,
+      "chg": 2.05
     },
     {
       "sym": "KOTAKBANK",
-      "price": 490.4,
-      "chg": 0.55
+      "price": 494.2,
+      "chg": 1.16
     },
     {
-      "sym": "JSWSTEEL",
-      "price": 1352.1,
-      "chg": -0.09
+      "sym": "ICICIBANK",
+      "price": 1585.0,
+      "chg": 0.09
     }
   ],
   "volume": [
     {
-      "sym": "HDFCLIFE",
-      "x": 2.8,
-      "chg": 4.23
+      "sym": "TMPV",
+      "x": 5.8,
+      "chg": -8.7
     },
     {
-      "sym": "HINDALCO",
+      "sym": "EICHERMOT",
+      "x": 3.7,
+      "chg": -0.67
+    },
+    {
+      "sym": "ITC",
       "x": 2.5,
-      "chg": 0.18
+      "chg": 3.54
     },
     {
-      "sym": "ONGC",
-      "x": 2.1,
-      "chg": -4.39
-    },
-    {
-      "sym": "SBIN",
-      "x": 2.1,
-      "chg": 2.38
+      "sym": "COALINDIA",
+      "x": 2.3,
+      "chg": -1.49
     }
   ],
   "momentum": [
     {
       "sym": "HDFCLIFE",
-      "chg": 4.23,
-      "rsi": 74.9
+      "chg": 2.07,
+      "rsi": 74.2
     },
     {
       "sym": "SBIN",
-      "chg": 2.38,
-      "rsi": 74.8
+      "chg": 0.97,
+      "rsi": 73.8
     },
     {
-      "sym": "M&M",
-      "chg": -1.9,
-      "rsi": 74.4
-    },
-    {
-      "sym": "DRREDDY",
-      "chg": 0.7,
+      "sym": "BHARTIARTL",
+      "chg": 2.26,
       "rsi": 73.6
     },
     {
-      "sym": "LT",
-      "chg": -1.25,
-      "rsi": 72.1
+      "sym": "ITC",
+      "chg": 3.54,
+      "rsi": 73.1
     },
     {
-      "sym": "BAJFINANCE",
-      "chg": 3.36,
-      "rsi": 71.8
+      "sym": "RELIANCE",
+      "chg": 0.38,
+      "rsi": 71.6
+    },
+    {
+      "sym": "ETERNAL",
+      "chg": 2.05,
+      "rsi": 71.2
     }
   ],
   "scanned": 49,
-  "asof": "2026-11-13"
+  "asof": "2026-11-16"
 }
