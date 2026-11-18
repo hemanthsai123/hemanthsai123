@@ -1,58 +1,63 @@
 {
   "highs": [
     {
-      "sym": "DRREDDY",
-      "price": 1398.2,
-      "chg": 0.73
+      "sym": "ETERNAL",
+      "price": 375.05,
+      "chg": 1.06
     },
     {
       "sym": "ICICIBANK",
-      "price": 1601.3,
-      "chg": 0.16
+      "price": 1598.7,
+      "chg": 0.86
+    },
+    {
+      "sym": "DRREDDY",
+      "price": 1388.0,
+      "chg": 0.73
     },
     {
       "sym": "KOTAKBANK",
-      "price": 494.85,
-      "chg": -0.48
+      "price": 497.25,
+      "chg": 0.62
     }
   ],
   "volume": [
     {
-      "sym": "SBIN",
-      "x": 2.3,
-      "chg": 2.38
+      "sym": "COALINDIA",
+      "x": 3.1,
+      "chg": -1.5
     }
   ],
   "momentum": [
     {
-      "sym": "KOTAKBANK",
-      "chg": -0.48,
-      "rsi": 74.3
+      "sym": "HDFCBANK",
+      "chg": -0.19,
+      "rsi": 74.8
+    },
+    {
+      "sym": "RELIANCE",
+      "chg": 1.65,
+      "rsi": 74.7
+    },
+    {
+      "sym": "ETERNAL",
+      "chg": 1.06,
+      "rsi": 72.8
     },
     {
       "sym": "DRREDDY",
       "chg": 0.73,
-      "rsi": 73.6
+      "rsi": 71.9
     },
     {
-      "sym": "RELIANCE",
-      "chg": -0.29,
-      "rsi": 73.1
+      "sym": "AXISBANK",
+      "chg": 1.98,
+      "rsi": 71.4
     },
     {
-      "sym": "ITC",
-      "chg": 1.13,
-      "rsi": 72.4
-    },
-    {
-      "sym": "HDFCBANK",
-      "chg": -0.83,
-      "rsi": 71.1
-    },
-    {
-      "sym": "LT",
-      "chg": 0.08,
-      "rsi": 70.8
+      "sym": "BAJFINANCE",
+      "chg": 1.0,
+      "rsi": 71.3
     }
   ],
   "scanned": 49,
