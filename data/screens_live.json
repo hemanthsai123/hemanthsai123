@@ -1,80 +1,60 @@
 {
   "highs": [
     {
-      "sym": "BHARTIARTL",
-      "price": 2153.5,
-      "chg": 2.26
-    },
-    {
-      "sym": "ETERNAL",
-      "price": 371.1,
-      "chg": 2.05
-    },
-    {
-      "sym": "KOTAKBANK",
-      "price": 494.2,
-      "chg": 1.16
+      "sym": "DRREDDY",
+      "price": 1398.2,
+      "chg": 0.73
     },
     {
       "sym": "ICICIBANK",
-      "price": 1585.0,
-      "chg": 0.09
+      "price": 1601.3,
+      "chg": 0.16
+    },
+    {
+      "sym": "KOTAKBANK",
+      "price": 494.85,
+      "chg": -0.48
     }
   ],
   "volume": [
     {
-      "sym": "TMPV",
-      "x": 5.8,
-      "chg": -8.7
-    },
-    {
-      "sym": "EICHERMOT",
-      "x": 3.7,
-      "chg": -0.67
-    },
-    {
-      "sym": "ITC",
-      "x": 2.5,
-      "chg": 3.54
-    },
-    {
-      "sym": "COALINDIA",
+      "sym": "SBIN",
       "x": 2.3,
-      "chg": -1.49
+      "chg": 2.38
     }
   ],
   "momentum": [
     {
-      "sym": "HDFCLIFE",
-      "chg": 2.07,
-      "rsi": 74.2
+      "sym": "KOTAKBANK",
+      "chg": -0.48,
+      "rsi": 74.3
     },
     {
-      "sym": "SBIN",
-      "chg": 0.97,
-      "rsi": 73.8
-    },
-    {
-      "sym": "BHARTIARTL",
-      "chg": 2.26,
+      "sym": "DRREDDY",
+      "chg": 0.73,
       "rsi": 73.6
     },
     {
-      "sym": "ITC",
-      "chg": 3.54,
+      "sym": "RELIANCE",
+      "chg": -0.29,
       "rsi": 73.1
     },
     {
-      "sym": "RELIANCE",
-      "chg": 0.38,
-      "rsi": 71.6
+      "sym": "ITC",
+      "chg": 1.13,
+      "rsi": 72.4
     },
     {
-      "sym": "ETERNAL",
-      "chg": 2.05,
-      "rsi": 71.2
+      "sym": "HDFCBANK",
+      "chg": -0.83,
+      "rsi": 71.1
+    },
+    {
+      "sym": "LT",
+      "chg": 0.08,
+      "rsi": 70.8
     }
   ],
   "scanned": 49,
-  "asof": "2026-11-17"
+  "asof": "2026-11-18"
 }
