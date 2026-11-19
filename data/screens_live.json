@@ -1,68 +1,58 @@
 {
   "highs": [
     {
-      "sym": "KOTAKBANK",
-      "price": 503.0,
-      "chg": 1.65
+      "sym": "DRREDDY",
+      "price": 1398.2,
+      "chg": 0.73
     },
     {
       "sym": "ICICIBANK",
-      "price": 1608.9,
-      "chg": 0.47
+      "price": 1601.3,
+      "chg": 0.16
     },
     {
-      "sym": "DRREDDY",
-      "price": 1400.9,
-      "chg": 0.19
+      "sym": "KOTAKBANK",
+      "price": 494.85,
+      "chg": -0.48
     }
   ],
   "volume": [
     {
-      "sym": "MARUTI",
-      "x": 2.4,
-      "chg": 7.58
-    },
-    {
-      "sym": "HEROMOTOCO",
-      "x": 2.4,
-      "chg": 5.77
-    },
-    {
-      "sym": "TMPV",
-      "x": 2.0,
-      "chg": 4.34
+      "sym": "SBIN",
+      "x": 2.3,
+      "chg": 2.38
     }
   ],
   "momentum": [
     {
-      "sym": "RELIANCE",
-      "chg": 0.92,
-      "rsi": 74.9
-    },
-    {
-      "sym": "ITC",
-      "chg": 1.48,
-      "rsi": 74.8
+      "sym": "KOTAKBANK",
+      "chg": -0.48,
+      "rsi": 74.3
     },
     {
       "sym": "DRREDDY",
-      "chg": 0.19,
-      "rsi": 74.1
+      "chg": 0.73,
+      "rsi": 73.6
+    },
+    {
+      "sym": "RELIANCE",
+      "chg": -0.29,
+      "rsi": 73.1
+    },
+    {
+      "sym": "ITC",
+      "chg": 1.13,
+      "rsi": 72.4
     },
     {
       "sym": "HDFCBANK",
-      "chg": 1.69,
-      "rsi": 73.9
+      "chg": -0.83,
+      "rsi": 71.1
     },
     {
       "sym": "LT",
-      "chg": 1.25,
-      "rsi": 73.8
-    },
-    {
-      "sym": "M&M",
-      "chg": 4.46,
-      "rsi": 73.0
+      "chg": 0.08,
+      "rsi": 70.8
     }
   ],
   "scanned": 49,
