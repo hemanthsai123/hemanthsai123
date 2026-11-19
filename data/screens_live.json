@@ -1,65 +1,70 @@
 {
   "highs": [
     {
-      "sym": "ETERNAL",
-      "price": 375.05,
-      "chg": 1.06
+      "sym": "KOTAKBANK",
+      "price": 503.0,
+      "chg": 1.65
     },
     {
       "sym": "ICICIBANK",
-      "price": 1598.7,
-      "chg": 0.86
+      "price": 1608.9,
+      "chg": 0.47
     },
     {
       "sym": "DRREDDY",
-      "price": 1388.0,
-      "chg": 0.73
-    },
-    {
-      "sym": "KOTAKBANK",
-      "price": 497.25,
-      "chg": 0.62
+      "price": 1400.9,
+      "chg": 0.19
     }
   ],
   "volume": [
     {
-      "sym": "COALINDIA",
-      "x": 3.1,
-      "chg": -1.5
+      "sym": "MARUTI",
+      "x": 2.4,
+      "chg": 7.58
+    },
+    {
+      "sym": "HEROMOTOCO",
+      "x": 2.4,
+      "chg": 5.77
+    },
+    {
+      "sym": "TMPV",
+      "x": 2.0,
+      "chg": 4.34
     }
   ],
   "momentum": [
     {
-      "sym": "HDFCBANK",
-      "chg": -0.19,
+      "sym": "RELIANCE",
+      "chg": 0.92,
+      "rsi": 74.9
+    },
+    {
+      "sym": "ITC",
+      "chg": 1.48,
       "rsi": 74.8
     },
     {
-      "sym": "RELIANCE",
-      "chg": 1.65,
-      "rsi": 74.7
-    },
-    {
-      "sym": "ETERNAL",
-      "chg": 1.06,
-      "rsi": 72.8
-    },
-    {
       "sym": "DRREDDY",
-      "chg": 0.73,
-      "rsi": 71.9
+      "chg": 0.19,
+      "rsi": 74.1
     },
     {
-      "sym": "AXISBANK",
-      "chg": 1.98,
-      "rsi": 71.4
+      "sym": "HDFCBANK",
+      "chg": 1.69,
+      "rsi": 73.9
     },
     {
-      "sym": "BAJFINANCE",
-      "chg": 1.0,
-      "rsi": 71.3
+      "sym": "LT",
+      "chg": 1.25,
+      "rsi": 73.8
+    },
+    {
+      "sym": "M&M",
+      "chg": 4.46,
+      "rsi": 73.0
     }
   ],
   "scanned": 49,
-  "asof": "2026-11-18"
+  "asof": "2026-11-19"
 }
