@@ -1,60 +1,90 @@
 {
   "highs": [
     {
-      "sym": "DRREDDY",
-      "price": 1398.2,
-      "chg": 0.73
+      "sym": "APOLLOHOSP",
+      "price": 9200.0,
+      "chg": 5.29
     },
     {
-      "sym": "ICICIBANK",
-      "price": 1601.3,
-      "chg": 0.16
+      "sym": "AXISBANK",
+      "price": 1446.0,
+      "chg": 4.72
     },
     {
       "sym": "KOTAKBANK",
-      "price": 494.85,
-      "chg": -0.48
+      "price": 515.8,
+      "chg": 2.54
+    },
+    {
+      "sym": "ICICIBANK",
+      "price": 1640.0,
+      "chg": 1.93
+    },
+    {
+      "sym": "BHARTIARTL",
+      "price": 2161.7,
+      "chg": 0.83
     }
   ],
   "volume": [
     {
-      "sym": "SBIN",
-      "x": 2.3,
-      "chg": 2.38
+      "sym": "INDUSINDBK",
+      "x": 6.0,
+      "chg": 8.59
+    },
+    {
+      "sym": "AXISBANK",
+      "x": 3.2,
+      "chg": 4.72
+    },
+    {
+      "sym": "APOLLOHOSP",
+      "x": 2.7,
+      "chg": 5.29
+    },
+    {
+      "sym": "MARUTI",
+      "x": 2.6,
+      "chg": 3.11
+    },
+    {
+      "sym": "TATASTEEL",
+      "x": 2.0,
+      "chg": -1.6
     }
   ],
   "momentum": [
     {
-      "sym": "KOTAKBANK",
-      "chg": -0.48,
-      "rsi": 74.3
-    },
-    {
-      "sym": "DRREDDY",
-      "chg": 0.73,
-      "rsi": 73.6
-    },
-    {
-      "sym": "RELIANCE",
-      "chg": -0.29,
-      "rsi": 73.1
-    },
-    {
-      "sym": "ITC",
-      "chg": 1.13,
-      "rsi": 72.4
-    },
-    {
-      "sym": "HDFCBANK",
-      "chg": -0.83,
-      "rsi": 71.1
+      "sym": "M&M",
+      "chg": 1.03,
+      "rsi": 74.2
     },
     {
       "sym": "LT",
-      "chg": 0.08,
-      "rsi": 70.8
+      "chg": -0.05,
+      "rsi": 73.5
+    },
+    {
+      "sym": "BHARTIARTL",
+      "chg": 0.83,
+      "rsi": 71.9
+    },
+    {
+      "sym": "ITC",
+      "chg": -0.63,
+      "rsi": 71.9
+    },
+    {
+      "sym": "APOLLOHOSP",
+      "chg": 5.29,
+      "rsi": 70.5
+    },
+    {
+      "sym": "EICHERMOT",
+      "chg": 0.68,
+      "rsi": 70.0
     }
   ],
   "scanned": 49,
-  "asof": "2026-11-19"
+  "asof": "2026-11-20"
 }
