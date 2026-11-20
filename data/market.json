@@ -1,16 +1,20 @@
 {
-  "asof": "2026-11-20",
-  "asof_label": "Fri 20 Nov 2026",
+  "asof": "2026-11-19",
+  "asof_label": "Thu 19 Nov 2026",
   "session": "NSE close",
   "source": "Yahoo Finance via yfinance (delayed); sectors and breadth from NSE end-of-day files",
   "hero": {
     "name": "Nifty 50",
-    "close": 25800.6,
-    "points": 286.3,
-    "pct": 1.12,
+    "close": 25514.3,
+    "points": 286.35,
+    "pct": 1.14,
     "month_pct": 1.4
   },
   "series": [
+    {
+      "d": "11 Nov",
+      "c": 25255.05
+    },
     {
       "d": "12 Nov",
       "c": 25299.35
@@ -34,18 +38,14 @@
     {
       "d": "19 Nov",
       "c": 25514.3
-    },
-    {
-      "d": "20 Nov",
-      "c": 25800.6
     }
   ],
   "indices": [
     {
       "key": "bank",
       "name": "Nifty Bank",
-      "close": 64635.2,
-      "pct": 2.49,
+      "close": 63063.0,
+      "pct": 1.65,
       "month_pct": 0.51
     },
     {
@@ -72,8 +72,8 @@
     {
       "key": "vix",
       "name": "India VIX",
-      "close": 17.32,
-      "pct": 7.51,
+      "close": 16.11,
+      "pct": 3.47,
       "month_pct": 12.08
     }
   ],

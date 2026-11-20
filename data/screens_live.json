@@ -1,88 +1,68 @@
 {
   "highs": [
     {
-      "sym": "APOLLOHOSP",
-      "price": 9200.0,
-      "chg": 5.29
-    },
-    {
-      "sym": "AXISBANK",
-      "price": 1446.0,
-      "chg": 4.72
-    },
-    {
       "sym": "KOTAKBANK",
-      "price": 515.8,
-      "chg": 2.54
+      "price": 503.0,
+      "chg": 1.65
     },
     {
       "sym": "ICICIBANK",
-      "price": 1640.0,
-      "chg": 1.93
+      "price": 1608.9,
+      "chg": 0.47
     },
     {
-      "sym": "BHARTIARTL",
-      "price": 2161.7,
-      "chg": 0.83
+      "sym": "DRREDDY",
+      "price": 1400.9,
+      "chg": 0.19
     }
   ],
   "volume": [
     {
-      "sym": "INDUSINDBK",
-      "x": 6.0,
-      "chg": 8.59
-    },
-    {
-      "sym": "AXISBANK",
-      "x": 3.2,
-      "chg": 4.72
-    },
-    {
-      "sym": "APOLLOHOSP",
-      "x": 2.7,
-      "chg": 5.29
-    },
-    {
       "sym": "MARUTI",
-      "x": 2.6,
-      "chg": 3.11
+      "x": 2.4,
+      "chg": 7.58
     },
     {
-      "sym": "TATASTEEL",
+      "sym": "HEROMOTOCO",
+      "x": 2.4,
+      "chg": 5.77
+    },
+    {
+      "sym": "TMPV",
       "x": 2.0,
-      "chg": -1.6
+      "chg": 4.34
     }
   ],
   "momentum": [
     {
-      "sym": "M&M",
-      "chg": 1.03,
-      "rsi": 74.2
-    },
-    {
-      "sym": "LT",
-      "chg": -0.05,
-      "rsi": 73.5
-    },
-    {
-      "sym": "BHARTIARTL",
-      "chg": 0.83,
-      "rsi": 71.9
+      "sym": "RELIANCE",
+      "chg": 0.92,
+      "rsi": 74.9
     },
     {
       "sym": "ITC",
-      "chg": -0.63,
-      "rsi": 71.9
+      "chg": 1.48,
+      "rsi": 74.8
     },
     {
-      "sym": "APOLLOHOSP",
-      "chg": 5.29,
-      "rsi": 70.5
+      "sym": "DRREDDY",
+      "chg": 0.19,
+      "rsi": 74.1
     },
     {
-      "sym": "EICHERMOT",
-      "chg": 0.68,
-      "rsi": 70.0
+      "sym": "HDFCBANK",
+      "chg": 1.69,
+      "rsi": 73.9
+    },
+    {
+      "sym": "LT",
+      "chg": 1.25,
+      "rsi": 73.8
+    },
+    {
+      "sym": "M&M",
+      "chg": 4.46,
+      "rsi": 73.0
     }
   ],
   "scanned": 49,
