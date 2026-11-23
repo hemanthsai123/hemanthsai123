@@ -1,70 +1,60 @@
 {
   "highs": [
     {
-      "sym": "KOTAKBANK",
-      "price": 503.0,
-      "chg": 1.65
+      "sym": "EICHERMOT",
+      "price": 8172.5,
+      "chg": 0.73
     },
     {
-      "sym": "ICICIBANK",
-      "price": 1608.9,
-      "chg": 0.47
-    },
-    {
-      "sym": "DRREDDY",
-      "price": 1400.9,
-      "chg": 0.19
+      "sym": "APOLLOHOSP",
+      "price": 9257.0,
+      "chg": 0.62
     }
   ],
   "volume": [
     {
-      "sym": "MARUTI",
-      "x": 2.4,
-      "chg": 7.58
+      "sym": "TATASTEEL",
+      "x": 6.9,
+      "chg": -8.43
     },
     {
-      "sym": "HEROMOTOCO",
-      "x": 2.4,
-      "chg": 5.77
-    },
-    {
-      "sym": "TMPV",
-      "x": 2.0,
-      "chg": 4.34
+      "sym": "TCS",
+      "x": 2.1,
+      "chg": 3.53
     }
   ],
   "momentum": [
     {
-      "sym": "RELIANCE",
-      "chg": 0.92,
-      "rsi": 74.9
-    },
-    {
       "sym": "ITC",
-      "chg": 1.48,
-      "rsi": 74.8
+      "chg": 0.64,
+      "rsi": 73.0
     },
     {
-      "sym": "DRREDDY",
-      "chg": 0.19,
-      "rsi": 74.1
+      "sym": "APOLLOHOSP",
+      "chg": 0.62,
+      "rsi": 71.4
     },
     {
-      "sym": "HDFCBANK",
-      "chg": 1.69,
-      "rsi": 73.9
+      "sym": "EICHERMOT",
+      "chg": 0.73,
+      "rsi": 71.2
     },
     {
-      "sym": "LT",
-      "chg": 1.25,
-      "rsi": 73.8
+      "sym": "SBIN",
+      "chg": -2.79,
+      "rsi": 70.3
     },
     {
       "sym": "M&M",
-      "chg": 4.46,
-      "rsi": 73.0
+      "chg": -1.62,
+      "rsi": 69.0
+    },
+    {
+      "sym": "KOTAKBANK",
+      "chg": -2.51,
+      "rsi": 68.9
     }
   ],
   "scanned": 49,
-  "asof": "2026-11-20"
+  "asof": "2026-11-23"
 }
