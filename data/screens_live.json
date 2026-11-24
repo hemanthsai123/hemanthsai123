@@ -1,90 +1,60 @@
 {
   "highs": [
     {
+      "sym": "EICHERMOT",
+      "price": 8172.5,
+      "chg": 0.73
+    },
+    {
       "sym": "APOLLOHOSP",
-      "price": 9200.0,
-      "chg": 5.29
-    },
-    {
-      "sym": "AXISBANK",
-      "price": 1446.0,
-      "chg": 4.72
-    },
-    {
-      "sym": "KOTAKBANK",
-      "price": 515.8,
-      "chg": 2.54
-    },
-    {
-      "sym": "ICICIBANK",
-      "price": 1640.0,
-      "chg": 1.93
-    },
-    {
-      "sym": "BHARTIARTL",
-      "price": 2161.7,
-      "chg": 0.83
+      "price": 9257.0,
+      "chg": 0.62
     }
   ],
   "volume": [
     {
-      "sym": "INDUSINDBK",
-      "x": 6.0,
-      "chg": 8.59
-    },
-    {
-      "sym": "AXISBANK",
-      "x": 3.2,
-      "chg": 4.72
-    },
-    {
-      "sym": "APOLLOHOSP",
-      "x": 2.7,
-      "chg": 5.29
-    },
-    {
-      "sym": "MARUTI",
-      "x": 2.6,
-      "chg": 3.11
-    },
-    {
       "sym": "TATASTEEL",
-      "x": 2.0,
-      "chg": -1.6
+      "x": 6.9,
+      "chg": -8.43
+    },
+    {
+      "sym": "TCS",
+      "x": 2.1,
+      "chg": 3.53
     }
   ],
   "momentum": [
     {
-      "sym": "M&M",
-      "chg": 1.03,
-      "rsi": 74.2
-    },
-    {
-      "sym": "LT",
-      "chg": -0.05,
-      "rsi": 73.5
-    },
-    {
-      "sym": "BHARTIARTL",
-      "chg": 0.83,
-      "rsi": 71.9
-    },
-    {
       "sym": "ITC",
-      "chg": -0.63,
-      "rsi": 71.9
+      "chg": 0.64,
+      "rsi": 73.0
     },
     {
       "sym": "APOLLOHOSP",
-      "chg": 5.29,
-      "rsi": 70.5
+      "chg": 0.62,
+      "rsi": 71.4
     },
     {
       "sym": "EICHERMOT",
-      "chg": 0.68,
-      "rsi": 70.0
+      "chg": 0.73,
+      "rsi": 71.2
+    },
+    {
+      "sym": "SBIN",
+      "chg": -2.79,
+      "rsi": 70.3
+    },
+    {
+      "sym": "M&M",
+      "chg": -1.62,
+      "rsi": 69.0
+    },
+    {
+      "sym": "KOTAKBANK",
+      "chg": -2.51,
+      "rsi": 68.9
     }
   ],
   "scanned": 49,
-  "asof": "2026-11-23"
+  "asof": "2026-11-24"
 }
