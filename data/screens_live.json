@@ -1,60 +1,85 @@
 {
   "highs": [
     {
+      "sym": "DIVISLAB",
+      "price": 11716.5,
+      "chg": 4.58
+    },
+    {
+      "sym": "ICICIBANK",
+      "price": 1640.0,
+      "chg": 3.44
+    },
+    {
       "sym": "EICHERMOT",
-      "price": 8172.5,
-      "chg": 0.73
+      "price": 8336.0,
+      "chg": 2.0
+    },
+    {
+      "sym": "DRREDDY",
+      "price": 1398.0,
+      "chg": 1.3
     },
     {
       "sym": "APOLLOHOSP",
-      "price": 9257.0,
-      "chg": 0.62
+      "price": 9300.0,
+      "chg": 0.46
     }
   ],
   "volume": [
     {
       "sym": "TATASTEEL",
-      "x": 6.9,
-      "chg": -8.43
+      "x": 4.3,
+      "chg": -2.27
     },
     {
-      "sym": "TCS",
+      "sym": "HINDUNILVR",
+      "x": 3.1,
+      "chg": 6.08
+    },
+    {
+      "sym": "HDFCLIFE",
+      "x": 2.9,
+      "chg": 4.58
+    },
+    {
+      "sym": "BRITANNIA",
       "x": 2.1,
-      "chg": 3.53
+      "chg": 5.08
     }
   ],
   "momentum": [
     {
-      "sym": "ITC",
-      "chg": 0.64,
-      "rsi": 73.0
-    },
-    {
-      "sym": "APOLLOHOSP",
-      "chg": 0.62,
-      "rsi": 71.4
+      "sym": "DIVISLAB",
+      "chg": 4.58,
+      "rsi": 75.0
     },
     {
       "sym": "EICHERMOT",
-      "chg": 0.73,
-      "rsi": 71.2
+      "chg": 2.0,
+      "rsi": 74.3
     },
     {
-      "sym": "SBIN",
-      "chg": -2.79,
-      "rsi": 70.3
+      "sym": "APOLLOHOSP",
+      "chg": 0.46,
+      "rsi": 72.1
     },
     {
-      "sym": "M&M",
-      "chg": -1.62,
-      "rsi": 69.0
+      "sym": "ICICIBANK",
+      "chg": 3.44,
+      "rsi": 71.3
     },
     {
       "sym": "KOTAKBANK",
-      "chg": -2.51,
-      "rsi": 68.9
+      "chg": 1.22,
+      "rsi": 71.1
+    },
+    {
+      "sym": "SBIN",
+      "chg": 0.49,
+      "rsi": 71.0
     }
   ],
   "scanned": 49,
-  "asof": "2026-11-24"
+  "asof": "2026-11-25"
 }
