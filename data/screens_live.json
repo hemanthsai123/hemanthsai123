@@ -1,48 +1,83 @@
 {
   "highs": [
     {
-      "sym": "TECHM",
-      "price": 1854.7,
-      "chg": 2.97
+      "sym": "DIVISLAB",
+      "price": 11716.5,
+      "chg": 4.58
+    },
+    {
+      "sym": "ICICIBANK",
+      "price": 1640.0,
+      "chg": 3.44
+    },
+    {
+      "sym": "EICHERMOT",
+      "price": 8336.0,
+      "chg": 2.0
+    },
+    {
+      "sym": "DRREDDY",
+      "price": 1398.0,
+      "chg": 1.3
+    },
+    {
+      "sym": "APOLLOHOSP",
+      "price": 9300.0,
+      "chg": 0.46
     }
   ],
   "volume": [
     {
+      "sym": "TATASTEEL",
+      "x": 4.3,
+      "chg": -2.27
+    },
+    {
+      "sym": "HINDUNILVR",
+      "x": 3.1,
+      "chg": 6.08
+    },
+    {
+      "sym": "HDFCLIFE",
+      "x": 2.9,
+      "chg": 4.58
+    },
+    {
       "sym": "BRITANNIA",
-      "x": 2.7,
-      "chg": 2.14
+      "x": 2.1,
+      "chg": 5.08
     }
   ],
   "momentum": [
     {
-      "sym": "ITC",
-      "chg": -0.73,
-      "rsi": 73.9
-    },
-    {
-      "sym": "HDFCBANK",
-      "chg": 1.87,
-      "rsi": 72.9
-    },
-    {
-      "sym": "MARUTI",
-      "chg": -1.3,
-      "rsi": 72.7
-    },
-    {
       "sym": "DIVISLAB",
-      "chg": -0.73,
-      "rsi": 72.4
+      "chg": 4.58,
+      "rsi": 75.0
     },
     {
-      "sym": "RELIANCE",
-      "chg": 1.62,
+      "sym": "EICHERMOT",
+      "chg": 2.0,
+      "rsi": 74.3
+    },
+    {
+      "sym": "APOLLOHOSP",
+      "chg": 0.46,
       "rsi": 72.1
     },
     {
+      "sym": "ICICIBANK",
+      "chg": 3.44,
+      "rsi": 71.3
+    },
+    {
       "sym": "KOTAKBANK",
-      "chg": 0.19,
-      "rsi": 71.4
+      "chg": 1.22,
+      "rsi": 71.1
+    },
+    {
+      "sym": "SBIN",
+      "chg": 0.49,
+      "rsi": 71.0
     }
   ],
   "scanned": 49,
