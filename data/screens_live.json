@@ -1,47 +1,48 @@
 {
-  "highs": [],
+  "highs": [
+    {
+      "sym": "TECHM",
+      "price": 1854.7,
+      "chg": 2.97
+    }
+  ],
   "volume": [
     {
-      "sym": "SHRIRAMFIN",
-      "x": 3.3,
-      "chg": -3.99
-    },
-    {
-      "sym": "ADANIPORTS",
-      "x": 2.3,
-      "chg": -1.64
+      "sym": "BRITANNIA",
+      "x": 2.7,
+      "chg": 2.14
     }
   ],
   "momentum": [
     {
-      "sym": "HDFCBANK",
-      "chg": -0.55,
-      "rsi": 71.0
-    },
-    {
       "sym": "ITC",
-      "chg": -0.75,
-      "rsi": 70.4
+      "chg": -0.73,
+      "rsi": 73.9
     },
     {
-      "sym": "DIVISLAB",
-      "chg": -0.61,
-      "rsi": 70.2
-    },
-    {
-      "sym": "RELIANCE",
-      "chg": -0.97,
-      "rsi": 67.5
+      "sym": "HDFCBANK",
+      "chg": 1.87,
+      "rsi": 72.9
     },
     {
       "sym": "MARUTI",
-      "chg": -1.78,
-      "rsi": 66.6
+      "chg": -1.3,
+      "rsi": 72.7
     },
     {
-      "sym": "HINDUNILVR",
-      "chg": -0.64,
-      "rsi": 66.1
+      "sym": "DIVISLAB",
+      "chg": -0.73,
+      "rsi": 72.4
+    },
+    {
+      "sym": "RELIANCE",
+      "chg": 1.62,
+      "rsi": 72.1
+    },
+    {
+      "sym": "KOTAKBANK",
+      "chg": 0.19,
+      "rsi": 71.4
     }
   ],
   "scanned": 49,
